@@ -1,6 +1,6 @@
 # ElevateLabs_Task5
 
-# Task 5 - Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 ## Internship: Data Analyst  
 **Dataset Used:** Walmart Sales Data  
